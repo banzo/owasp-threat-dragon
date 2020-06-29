@@ -28,9 +28,11 @@ Threat Dragon is a Single Page Application (SPA) using Angular on the client and
 
 Install git and node.js - which includes the node package manager npm. To get the code, navigate to where you want your code to be located and do
 
-`git init`
 
-`git clone https://github.com/mike-goodwin/owasp-threat-dragon.git`
+```
+git clone https://github.com/mike-goodwin/owasp-threat-dragon.git
+cd owasp-threat-dragon
+```
 
 This installs code in two sub-folders. One for the main application (`td`) and one for the unit tests (`td.tests`). To install, do:
 
